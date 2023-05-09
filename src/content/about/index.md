@@ -8,7 +8,7 @@ what_i_do:
   title: "What I Do"
   items:
   - title: "Entrepeneur"
-    description: "Atlas Mundi Foundation is my open source AI/ML startup, we do 3d mapping, drone to data, and digital twin technologies to support sustainable environmental goals.  
+    description: "Atlas Mundi Foundation is my open source AI/ML startup, we do 3d mapping, drone to data, and digital twin technologies to support sustainable environmental goals."  
   
   - title: "Prompt Engineer"
     description: "AI research and development utilizing multi-modal models, 3d environments, computer vision, and voice."
