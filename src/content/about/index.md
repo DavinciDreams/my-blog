@@ -1,5 +1,5 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "I’m Lisa Watts, entrepeneur, prompt engineer, and software consultant based in Philadelphia, Currently at Megawatts Enterprises"
 meta_title: "About"
 image: "/images/author.png"
 draft: false
@@ -7,14 +7,14 @@ draft: false
 what_i_do:
   title: "What I Do"
   items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+  - title: "Entrepeneur"
+    description: "Atlas Mundi Foundation is my open source AI/ML startup, we do 3d mapping, drone to data, and digital twin technologies to support sustainable environmental goals.  
   
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
+  - title: "Prompt Engineer"
+    description: "AI research and development utilizing multi-modal models, 3d environments, computer vision, and voice."
   
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
+  - title: "Software Consulting"
+    description: "Megwatts Enterprises LLC is my software consultancy, we specialize in AI/ML and 3d projects."
 
 ---
 
